@@ -1,0 +1,11 @@
+train: D:\Jun\bird\images\train
+val: D:\Jun\bird\images\val
+
+nc: 1
+names:
+ 0: bird
+
+
+
+
+
